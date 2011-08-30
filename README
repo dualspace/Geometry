@@ -1,0 +1,8 @@
+Geometry
+--------
+
+This project is intended to be a very simple 3D modeller for learning about Geometry. It has a couple of classes to represent vectors and matrices, and uses them to represent 3D wireframe models by connecting the vertices of a model to a camera point, and seeing where these connecting lines intersect a plane (representing the view screen). 
+
+Originally written to create some diagrams to help explain some of the basic ideas of non-Euclidean geometry.
+
+Very primitive UI - no user input outside the code yet!
